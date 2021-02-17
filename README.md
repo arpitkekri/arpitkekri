@@ -1,9 +1,6 @@
 ### Hi there 👋
-![Visitor Count](https://profile-counter.glitch.me/{arpitkekri}/count.svg)
-
 ![Profile Views](https://gpvc.arturio.dev/arpitkekri)
-
-
+![Visitor Count](https://profile-counter.glitch.me/{arpitkekri}/count.svg)
 
 
 <!--
