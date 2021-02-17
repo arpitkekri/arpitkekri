@@ -1,7 +1,8 @@
 ### Hi there 👋
+![Profile Views](https://gpvc.arturio.dev/arpitkekri)
 
 ![Visitor Count](https://profile-counter.glitch.me/{arpitkekri}/count.svg)
-![Profile Views](https://gpvc.arturio.dev/arpitkekri)
+
 
 <!--
 **arpitkekri/arpitkekri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
