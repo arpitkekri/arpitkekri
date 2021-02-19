@@ -1,5 +1,7 @@
 <h1 align="center">Hi <img src="https://github.com/SAMAYV/SAMAYV/blob/main/Assets/hi.gif" width="30px">, I'm Arpit</h1>
 
+<h3 align="center">I write code.</h3>
+
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=arpitkekri alt=Arpit Kumar Jain/> </p>
 
 <p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=arpitkekri&show_icons=true alt=Arpit Kumar Jain/> </p>
