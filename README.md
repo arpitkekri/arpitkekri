@@ -1,4 +1,6 @@
-### Hi <img src="https://github.com/SAMAYV/SAMAYV/blob/main/Assets/hi.gif" width="30px">, I am Arpit
+<h1 align="center">Hi <img src="https://github.com/SAMAYV/SAMAYV/blob/main/Assets/hi.gif" width="30px">, I'm Arpit</h1>
+
+
 ![Profile Views](https://gpvc.arturio.dev/arpitkekri)
 
 
