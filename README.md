@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi <img src="https://github.com/SAMAYV/SAMAYV/blob/main/Assets/hi.gif" width="30px">, I am Arpit
 ![Profile Views](https://gpvc.arturio.dev/arpitkekri)
 
 
