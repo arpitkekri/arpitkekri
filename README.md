@@ -2,9 +2,9 @@
 
 <h3 align="center">I write code.</h3>
 
-<p align="left"> <img src=https://komarev.com/ghpvc/?username=arpitkekri alt=Arpit Kumar Jain/> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=arpitkekri" alt="Arpit Kumar Jain's profile views"/> </p>
 
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=arpitkekri&show_icons=true&theme=gotham" alt="Arpit Kumar Jain"/> </p>
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=arpitkekri&show_icons=true&theme=gotham" alt="Arpit Kumar Jain's Github Stats"/> </p>
 
 <!--
 **arpitkekri/arpitkekri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
