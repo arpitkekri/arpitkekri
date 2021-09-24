@@ -17,7 +17,7 @@
 
 
 <!-- DARK AND LIGHT THEME -->
-<!-- <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=arpitkekri&show_icons=true&theme=gotham" alt="Arpit Kumar Jain's Github Stats"/> </p> -->
+<!-- <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=arpitkekri&show_icons=true&theme=gotham" alt="Arpit's GitHub Stats"/> </p> -->
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=arpitkekri&show_icons=true" alt="Arpit's GitHub Stats"/> </p>
 
 
