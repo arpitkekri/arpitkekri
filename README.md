@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src="https://github.com/SAMAYV/SAMAYV/blob/main/Assets/hi.gif" width="30px">, I'm Arpit</h1>
 
-<h3 align="center">I write code.</h3>
+<h3 align="center">A passionate software developer and problem solving enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arpitkekri" alt="Arpit Kumar Jain's profile views"/> </p>
 
