@@ -30,7 +30,7 @@
 <!-- Based on readme-stats.vercel -->
 <!-- DARK AND LIGHT THEME -->
 <!-- <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=arpitkekri&show_icons=true&theme=gotham" alt="Arpit's GitHub Stats"/> </p> -->
-<p align="left"> 
+<p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api?username=arpitkekri&show_icons=true&border_color=7cebf5&border_radius=10" alt="Arpit's GitHub Stats" height="192px"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arpitkekri&show_icons=true&langs_count=8&layout=compact&border_color=7cebf5&border_radius=10" alt="Arpit's Top Languages" height="192px"/>
  <br/>
