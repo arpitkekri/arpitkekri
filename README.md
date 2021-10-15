@@ -17,7 +17,7 @@
 
 <!-- GitHub stats section -->
 
-## 📊 Github stats
+## 📊 GitHub stats
 
 <!-- Bassed on: https://github.com/anuraghazra/github-readme-stats -->
 <!-- <p align="center">
@@ -33,8 +33,10 @@
 <p align="left"> 
   <img src="https://github-readme-stats.vercel.app/api?username=arpitkekri&show_icons=true&border_color=7cebf5&border_radius=10" alt="Arpit's GitHub Stats" height="192px"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arpitkekri&show_icons=true&langs_count=8&layout=compact&border_color=7cebf5&border_radius=10" alt="Arpit's Top Languages" height="192px"/>
+ <br/>
+ <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </p>
-<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+
 
 
 <!--
