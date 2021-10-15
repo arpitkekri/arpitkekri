@@ -37,10 +37,22 @@
  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </p>
 
+<p align="left">
+  <a href="https://github.com/arpitkekri?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
+</p>
 
+
+<!-- last activity section -->
+
+<!-- ## Activity Graph
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=arpitkekri&theme=react-dark" width="100%"/>
+</p>
+ -->
 
 <!--
 **arpitkekri/arpitkekri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
 
 Here are some ideas to get you started:
 
