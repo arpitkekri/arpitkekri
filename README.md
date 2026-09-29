@@ -27,6 +27,13 @@
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </p> -->
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=arpitkekri&theme=default" alt="Arpit's GitHub Stats" height="192px"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arpitkekri&theme=default" alt="Arpit's Top Languages" height="192px"/>
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+</p>
+
 <!-- Based on readme-stats.vercel -->
 <!-- DARK AND LIGHT THEME -->
 <!-- <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=arpitkekri&show_icons=true&theme=gotham" alt="Arpit's GitHub Stats"/> </p> -->
