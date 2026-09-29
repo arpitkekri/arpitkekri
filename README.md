@@ -20,7 +20,7 @@
 ## GitHub stats
 <p align="center">
   <img
-    src="https://github-readme-stats-eight-theta.vercel.app/api?username=arpitkekri&show_icons=true&border_color=7cebf5&border_radius=10"
+    src="https://github-readme-stats-eight-theta.vercel.app/api?username=arpitkekri&show_icons=true&include_all_commits=true&count_private=true&border_color=7cebf5&border_radius=10"
     alt="Arpit's GitHub Stats"
     height="192px"
   />
