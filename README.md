@@ -72,3 +72,24 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img
+    src="https://github-readme-stats-eight-theta.vercel.app/api?username=arpitkekri&show_icons=true&border_color=7cebf5&border_radius=10"
+    alt="Arpit's GitHub Stats"
+    height="192px"
+  />
+  <img
+    src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=arpitkekri&show_icons=true&langs_count=8&layout=compact&border_color=7cebf5&border_radius=10"
+    alt="Arpit's Top Languages"
+    height="192px"
+  />
+</p>
+
+<p align="center">
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+</p>
